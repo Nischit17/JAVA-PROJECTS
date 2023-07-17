@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class/AlphabetCaseCheck/AlphabetCaseCheck.iml" filepath="$PROJECT_DIR$/Class/AlphabetCaseCheck/AlphabetCaseCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Amstrong/Amstrong.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Amstrong/Amstrong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfCircle/AreaOfCircle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfCircle/AreaOfCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfEquilateralTriangle/AreaOfEquilateralTriangle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfEquilateralTriangle/AreaOfEquilateralTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfIsoscelesTriangle/AreaOfIsoscelesTriangle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfIsoscelesTriangle/AreaOfIsoscelesTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfParallelogram/AreaOfParallelogram.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfParallelogram/AreaOfParallelogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfRectangle/AreaOfRectangle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfRectangle/AreaOfRectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfRhombus/AreaOfRhombus.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfRhombus/AreaOfRhombus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfTriangle/AreaOfTriangle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/AreaOfTriangle/AreaOfTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/AverageMarks/AverageMarks.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/AverageMarks/AverageMarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/AverageOfNNumbers/AverageOfNNumbers.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/AverageOfNNumbers/AverageOfNNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/BattingAverage/BattingAverage.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/BattingAverage/BattingAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/CGPAJavaProgram/CGPAJavaProgram.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/CGPAJavaProgram/CGPAJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/CommissionPercentage/CommissionPercentage.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/CommissionPercentage/CommissionPercentage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/CompoundInterest/CompoundInterest.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/CompoundInterest/CompoundInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/CountingOccurrences/CountingOccurrences.iml" filepath="$PROJECT_DIR$/Class/CountingOccurrences/CountingOccurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/CurvedSurfaceAreaOfCylinder/CurvedSurfaceAreaOfCylinder.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/CurvedSurfaceAreaOfCylinder/CurvedSurfaceAreaOfCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/DepreciationOfValue/DepreciationOfValue.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/DepreciationOfValue/DepreciationOfValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/DiscountOfProduct/DiscountOfProduct.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/DiscountOfProduct/DiscountOfProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/DistanceBetweenTwoPoints/DistanceBetweenTwoPoints.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/DistanceBetweenTwoPoints/DistanceBetweenTwoPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/ElectricityBill/ElectricityBill.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/ElectricityBill/ElectricityBill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/EvenOrOdd/EvenOrOdd.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/EvenOrOdd/EvenOrOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/FactorsOfNumber/FactorsOfNumber.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/FactorsOfNumber/FactorsOfNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/FutureInvestmentValue/FutureInvestmentValue.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/FutureInvestmentValue/FutureInvestmentValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/Greeting/Greeting.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/Greeting/Greeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/HCFOfTwoNumbers/HCFOfTwoNumbers.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/HCFOfTwoNumbers/HCFOfTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Class/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/IntInputProgram/IntInputProgram.iml" filepath="$PROJECT_DIR$/Class/IntInputProgram/IntInputProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/JavaProgramVowelOrConsonant/JavaProgramVowelOrConsonant.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/JavaProgramVowelOrConsonant/JavaProgramVowelOrConsonant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/LCMOfTwoNumbers/LCMOfTwoNumbers.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/LCMOfTwoNumbers/LCMOfTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/LargestNumber/LargestNumber.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/LargestNumber/LargestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyProjects.iml" filepath="$PROJECT_DIR$/.idea/MyProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/Numbers1-n/Numbers1-n.iml" filepath="$PROJECT_DIR$/Class/Numbers1-n/Numbers1-n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/PerfectNumber/PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfCircle/PerimeterOfCircle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfCircle/PerimeterOfCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfEquilateralTriangle/PerimeterOfEquilateralTriangle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfEquilateralTriangle/PerimeterOfEquilateralTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfParallelogram/PerimeterOfParallelogram.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfParallelogram/PerimeterOfParallelogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfRectangle/PerimeterOfRectangle.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfRectangle/PerimeterOfRectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfRhombus/PerimeterOfRhombus.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfRhombus/PerimeterOfRhombus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfSquare/PerimeterOfSquare.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/PerimeterOfSquare/PerimeterOfSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Power/Power.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/Power/Power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/ReverseNumber/ReverseNumber.iml" filepath="$PROJECT_DIR$/Class/ReverseNumber/ReverseNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/RollNumber/RollNumber.iml" filepath="$PROJECT_DIR$/Class/RollNumber/RollNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/RupeesToUSD/RupeesToUSD.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/RupeesToUSD/RupeesToUSD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/SimpleInterest/SimpleInterest.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/SimpleInterest/SimpleInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/StringInputProgram/StringInputProgram.iml" filepath="$PROJECT_DIR$/Class/StringInputProgram/StringInputProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/SubtractTheProductAndSumOfDigitsOfAnInteger/SubtractTheProductAndSumOfDigitsOfAnInteger.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/SubtractTheProductAndSumOfDigitsOfAnInteger/SubtractTheProductAndSumOfDigitsOfAnInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/SumOfADigitsOfNumber/SumOfADigitsOfNumber.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/SumOfADigitsOfNumber/SumOfADigitsOfNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/SumOfPositiveAndNegativeNumbers/SumOfPositiveAndNegativeNumbers.iml" filepath="$PROJECT_DIR$/Assignments/INTERMEDIATE JAVA PROGRAMS/SumOfPositiveAndNegativeNumbers/SumOfPositiveAndNegativeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/SumOfTwoNumbers/SumOfTwoNumbers.iml" filepath="$PROJECT_DIR$/Class/SumOfTwoNumbers/SumOfTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/TakeIntegerInputsTillTheUserEnters0AndPrintTheLargestNumberFromAll/TakeIntegerInputsTillTheUserEnters0AndPrintTheLargestNumberFromAll.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/TakeIntegerInputsTillTheUserEnters0AndPrintTheLargestNumberFromAll/TakeIntegerInputsTillTheUserEnters0AndPrintTheLargestNumberFromAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/TakeIntegerInputsTillUserEnters0/TakeIntegerInputsTillUserEnters0.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/TakeIntegerInputsTillUserEnters0/TakeIntegerInputsTillUserEnters0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/Temperature/Temperature.iml" filepath="$PROJECT_DIR$/Class/Temperature/Temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfCone/VolumeOfCone.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfCone/VolumeOfCone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfCylinder/VolumeOfCylinder.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfCylinder/VolumeOfCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfPrism/VolumeOfPrism.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfPrism/VolumeOfPrism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfSphere/VolumeOfSphere.iml" filepath="$PROJECT_DIR$/Assignments/BASIC JAVA PROGRAMS/VolumeOfSphere/VolumeOfSphere.iml" />
+    </modules>
+  </component>
+</project>
